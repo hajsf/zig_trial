@@ -3,9 +3,7 @@
 zig build-lib mylib.zig
 ```
 
-2. Create the '.h' file
-
-3. Run the main file as:
+2. Run the main file as:
 ```bash
 zig build run
 ```
